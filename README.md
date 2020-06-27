@@ -50,4 +50,5 @@ a. Proportion of values of a variable -> PieChart or BarPlot
 b. Value movements depending on time progression -> LineChart
 c. Correlation between two sets of values -> ScatterPlot
 
+## Side Notes
 DataViz is still in development, so expect some glitches/errors. Nevertheless, I hope you enjoy using this app as much as I do making it. For any feedbacks/improvements/error reports, feel free to open an issue below. -N.S.
