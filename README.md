@@ -6,7 +6,7 @@ Welcome to DataViz! DataViz is a data visualization app built on Shiny Dashboard
 ### 1. Upload your CSV file
 Upload your CSV file in the given upload page. For this simulation we use Video Game Sales dataset acquired from Kaggle. Here's the link: https://www.kaggle.com/gregorut/videogamesales
 
-upload page gif here
+![alt text](gifs/DataVizgifs/upload page.gif)
 
 ### 2. Make your first graph
 Hover to the Graphs tab and click the Graph1 tab for your first plot (or graph, whatever you want to say it lol).
