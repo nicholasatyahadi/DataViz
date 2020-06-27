@@ -3,7 +3,7 @@
 Welcome to DataViz! DataViz is a data visualization app built on Shiny Dashboard (and other libraries). This app aims to help R users for in-depth data analysis without having to leave R. And the best part is, you can freely control multiple graphs!
 
 ## How to use the app
-Simply clone the repository then run the datavizApp.R file. Don't forget the CSV file you want to use! :)
+Simply clone the repository then run the datavizApp.R file. Don't forget the CSV file you want to use and install the package needed for the app (it's in the code)! :)
 
 ## App Simulation
 ### 1. Upload your CSV file
